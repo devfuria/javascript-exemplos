@@ -2,12 +2,11 @@ Exemplo da lâmpada
 ===
 
 
-Pequeno código em JavaScrpt que acende e apaga uma lâmpada.
+Pequeno código em JavaScript que acende e apaga uma lâmpada.
 
-Veja a demo funcionando.
+Veja a [demo](# 'demo') funcionando.
 
 Quer se exercitar? Faça a sua própria versão e envie para a gente!
-
 
 
 Logs
