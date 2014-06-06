@@ -1,4 +1,4 @@
-Coleção de script de exemplos em JavaScript
+Coleção de scripts de exemplos em JavaScript
 ===
 
 
