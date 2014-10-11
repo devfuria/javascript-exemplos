@@ -4,7 +4,10 @@ Exemplo da lâmpada
 
 Pequeno código em JavaScript que acende e apaga uma lâmpada.
 
-Veja a [demo](# 'demo') funcionando.
+Veja também:
+
+- a [demo](http://codepen.io/flaviomicheletti/pen/zFGvl 'demo') funcionando.
+- [matéria](http://www.devfuria.com.br/javascript/code-lampada/) no site wwww.devfuria.com.br explicando o código
 
 Quer se exercitar? Faça a sua própria versão e envie para a gente!
 
