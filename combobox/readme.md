@@ -2,7 +2,7 @@ Exemplo combobox - select
 ===
 
 
-Pequeno código em JavaScript que manipula o controle HTML __selectac__ (combobox).
+Pequeno código em JavaScript que manipula o controle HTML __select__ (combobox).
 
 Veja também:
 
