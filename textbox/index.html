@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Exemplo de código Javascript - www.devfuria.com.br</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="index.css" media="all" />        
+    </head>
+    <body>
+
+
+        <form id="comments_form" action="#" method="post">
+            <fieldset>
+                <legend>Your Contact Details</legend>
+                <p>
+                    <label for="author">Name: <em class="required">(Required)</em></label>
+                    <input name="author" id="author" type="text" />
+                </p>
+
+                <p>
+                    <label for="email">Email Address:</label>
+                    <input name="email" id="email" type="text" />
+                </p>
+
+                <p>
+                    <label for="pass">Password:</label>
+                    <input name="pass" id="pass" type="password" />
+                </p>
+            </fieldset>
+
+            <fieldset>
+                <legend>Comments</legend>
+                <p>
+                    <label for="text">Message: <em class="required">(Required)</em></label>
+                    <textarea name="text" id="text" cols="20" rows="10"></textarea>
+                </p>
+            </fieldset>
+
+            <p>
+                <input type="button" value="Submit!" id="btnSubmit"/>
+            </p>
+
+        </form>
+
+
+        <script type="text/javascript" src="textbox-v1.0.js"></script>
+    </body>
+</html>
