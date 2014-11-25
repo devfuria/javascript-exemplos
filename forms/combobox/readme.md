@@ -9,8 +9,6 @@ Veja também:
 - a [demo](http://codepen.io/flaviomicheletti/pen/BdHDG 'demo') funcionando.
 - [matéria](http://www.devfuria.com.br/javascript/forms/select-combobox/) explicando o código
 
-Quer se exercitar? Faça a sua própria versão e envie para a gente!
-
 
 Logs
 ---
