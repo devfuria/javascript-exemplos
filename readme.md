@@ -10,6 +10,7 @@ Você pode mandar o seu script ou fazer uma nova versão de algum exemplo já ex
 Índice
 ---
 
+- [Somando](somando/)
 - [Lâmpada](lampada/)
 - [Função para gerar randômicos](aleatorio/)
 - [Combobox](combobox/)
