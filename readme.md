@@ -1,4 +1,4 @@
-Coleção de scripts de exemplos em JavaScript
+Coleção de códigos em JavaScript
 ===
 
 Quer contribuir? Fique à vontade.
