@@ -1,15 +1,24 @@
 var lampada = {
+    // propriedade para sabermos o estado da lampada
     ligada: false,
+    // representa a tag img
     elemento: document.getElementById('myimage'),
+    // método que acende a lampada
     acender: function() {
-        lampada.elemento.src = "lampada-on.gif";
-        lampada.ligada = true;
+        this.elemento.src = "lampada-on.gif";
+        this.ligada = true;
     },
+    // método que apaga a lampada
     apagar: function() {
-        lampada.elemento.src = "lampada-off.gif";
-        lampada.ligada = false;
+        this.elemento.src = "lampada-off.gif";
+        this.ligada = false;
     }
 };
+
+/**
+ * Método anexado ao evento 'click' da tag img
+ * que alterna entre acessa e apagada
+ */
 lampada.elemento.onclick = function() {
     if (lampada.ligada) {
         lampada.apagar();

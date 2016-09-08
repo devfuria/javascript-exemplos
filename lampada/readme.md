@@ -17,4 +17,3 @@ Logs
 
 - versao1.0: original
 - versao2.0: utilizando objetos
-- versao2.1: adicionado comentários
