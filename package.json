@@ -1,0 +1,22 @@
+{
+  "name": "javascript-exemplos",
+  "version": "1.0.0",
+  "description": "Exemplos em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomicheletti/javascript-exemplos.git"
+  },
+  "author": "Flávio Micheletti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomicheletti/javascript-exemplos/issues"
+  },
+  "homepage": "https://github.com/flaviomicheletti/javascript-exemplos#readme",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}

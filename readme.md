@@ -1,5 +1,4 @@
-Coleção de códigos em JavaScript
-===
+# Exemplos de código em JavaScript
 
 Quer contribuir? Fique à vontade.
 
@@ -13,4 +12,13 @@ Você pode mandar o seu script ou fazer uma nova versão de algum exemplo já ex
 - [Radio button](radio-button/)
 - [Textbox](textbox/)
 
-[www.devfuria.com.br](http://www.devfuria.com.br/ "www.devfuria.com.br")
+
+### Instalando e executando
+
+Eu utilizo um serivdor básico em node o `http-server`.
+
+Mas antes você precisa ter o nodejs instalado.
+
+    node node_modules/http-server/bin/http-server
+
+E abrir no endereço http://localhost:8080/
